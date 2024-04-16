@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is where I will eventually add some information about myself.
+
 <!--
 **DrSwarmstrong/DrSwarmstrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
